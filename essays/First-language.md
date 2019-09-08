@@ -9,7 +9,7 @@ labels:
   - Khanacademy
 ---
 
-<img class="ui medium left floated image" src="../images/Screen Shot 2019-09-05 at 8.43.02 PM.jpg">
+<img class="ui medium left floated image" src="../images/Screen Shot 2019-09-06 at 8.16.31 AM.jpg">
 
 Javascript is an intuitive programming language and is easy to use. I have used javascript before. This class has informed me of modern coding style. This is the easiest language to use, that I know.
 
