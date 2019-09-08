@@ -7,9 +7,7 @@ permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-06
 labels:
-  - Robotics
-  - Arduino
-  - C++
+  - art
 summary: Computer art is a system of using computers for artistic endeavors.
 ---
 
