@@ -14,14 +14,12 @@ summary: The Little Homunculus is a game I program in javascript..
 
 <img class="ui image" src="{{ site.baseurl }}/images/hom2.jpg">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
+Over the summer I program a game called The Little Homunculus using javascript. This is a basic platformer game, based on former products. The game has an in-compeet sequel, that I was working on before the semester started.
 
 <hr>
 
 <pre>
-Over the summer I program a game called The Little Homunculus using javascript. This is a basic platformer game, based on former products. The game has an in-compeeet sequel, that I was working on before the semester started.
+Over the summer I program a game called The Little Homunculus using javascript. This is a basic platformer game, based on former products. The game has an in-compeet sequel, that I was working on before the semester started.
 </pre>
 
 <hr>
