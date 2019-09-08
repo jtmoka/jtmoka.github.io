@@ -9,8 +9,6 @@ labels:
   - Learning
 ---
 
-<img class="ui tiny left circular floated image" src="../images/paintbrushes.jpg">
-
 Software engineering is a practical skill. Programming knowledge is necessary for a large number of professional paths. Coding is a versatile ability, capable of solving a variety of problems.
 
 Programing is a large and robust industry. With a degree in computer science, I will be eligible for a large number of professions. I will be likely to have multiple career options.
