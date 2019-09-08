@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/Screen Shot 2019-09-05 at 8.43.02 PM.jpg
-title: Cotton
-permalink: projects/cotton
+title: Game
+permalink: projects/game
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-06
 labels:
