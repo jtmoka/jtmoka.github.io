@@ -7,12 +7,9 @@ permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-06
 labels:
-  - Lisp
   - GitHub
-summary: Github.
+summary: I have used github. In my fumor classes, the website functions as the primary method of collaboration..
 ---
-
-I have used github. In my fumor classes, the website functions as the primary method of collaboration.
 
 I have used github. In my fumor classes, the website functions as the primary method of collaboration. One of the major use the java language to program a rudimentary Pokemon game. This project requires us to each collaborate with four of our classmates, thrugho Github.
 
