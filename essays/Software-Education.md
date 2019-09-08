@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
+title: Software Education
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-06
 labels:
