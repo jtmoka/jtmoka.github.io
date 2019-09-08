@@ -8,6 +8,7 @@ permalink: projects/game
 date: 2019-09-06
 labels:
   - javascript
+  - Game
 summary: The Little Homunculus is a game I program in javascript..
 ---
 
