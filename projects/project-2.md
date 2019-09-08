@@ -7,7 +7,6 @@ permalink: projects/game
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-06
 labels:
-  - Lisp
   - GitHub
 summary: The Little Homunculus is a game I program in javascript..
 ---
