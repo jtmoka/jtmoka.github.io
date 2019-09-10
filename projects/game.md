@@ -16,4 +16,4 @@ summary: The Little Homunculus is a game I program in javascript..
 
 Over the summer I program a game called The Little Homunculus using javascript. This is a basic platformer game, based on former products. The game has an in-compeet sequel, that I was working on before the semester started.
 
-Source: <a href="https://www.khanacademy.org/computer-programming/little-homunculus/6637586978013184 "></i>Khanac ademy/ game</a>
+Source: <a href="https://www.khanacademy.org/computer-programming/little-homunculus/6637586978013184 "></i>Khan academy  game</a>
