@@ -20,4 +20,4 @@ The original game, that I baste my own on, is named The Wastelands. This game ha
 
 
 
-Source: <a href="https://www.khanacademy.org/computer-programming/little-homunculus/6637586978013184 "><Khan academy  game</a>
+Source: <a href="https://www.khanacademy.org/computer-programming/little-homunculus/6637586978013184 "></The Little Homunculus</a>
