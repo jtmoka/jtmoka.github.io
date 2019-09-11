@@ -16,4 +16,8 @@ summary: The Little Homunculus is a game I program in javascript..
 
 Over the summer I program a game called The Little Homunculus using javascript. This is a basic platformer game, based on former products. The game has an in-compeet sequel, that I was working on before the semester started.
 
-Source: <a href="https://www.khanacademy.org/computer-programming/little-homunculus/6637586978013184 "></i>Khan academy  game</a>
+The original game, that I baste my own on, is named The Wastelands. This game had the block array system, of level construction. I also inherited the collision system, form this forerunner. You can access this game from The Little Homunculus. I did add the tiles effects, altering the blocks from being only floors or portals. In place of portal tils, my game uses the borders of the map as portals to other maps.
+
+
+
+Source: <a href="https://www.khanacademy.org/computer-programming/little-homunculus/6637586978013184 "><Khan academy  game</a>
