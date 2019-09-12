@@ -16,3 +16,5 @@ summary: Computer art is a system of using computers for artistic endeavors.
 </div>
 
 I took a class on computer art, my first semester. My second project was to make a poster, for a fake move. The process of this system is very similar to computer programming. I learned how to install and use software, in his program.
+
+I have two other projects, for the class. The first was to draw a picture, using the software. The third was to make a cinematic trailer for a different fake movie. Each project, used different adobe software.
