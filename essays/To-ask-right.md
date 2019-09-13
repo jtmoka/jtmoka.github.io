@@ -9,15 +9,8 @@ labels:
   - Khanacademy
 ---
 
-<img class="ui medium left floated image" src="../images/Screen Shot 2019-09-08 at 11.04.53 AM.jpg">
+Asking good questions can make solving the problem much easier. Making imprecise or unfoucest queries can lead to answers that are not focused. Inquiries should be clearly stated, so the question can be discussed without difficulty. A failed answers can add direction to responses.
 
-Javascript is an intuitive programming language and is easy to use. I have used javascript before. This class has informed me of modern coding style. This is the easiest language to use, that I know.
+Ravindra Barthwal’s question titled “Room Database Migration Failed: ALTER TABLE to add multiple columns”, is a well made query. He Clearly states his problem, as well as the roadblock that he has run in to. He also displays his code and error message, allowing his audience to understand first hand. 
 
-I first learned to code using the online instruction website Khan Academy. This site teaches introductory javascript, making it the first language I used. I have never encountered the language in a college course.
-
-I have been using outdated coding since I started using javascript. I was originally taught to use var for most variables. I have also been using arrays and objects in un-optimal ways. FreeCodeCamp taught me about these more efficient coding conventions.
-
-I have learned to code in Java, C, C++ and javascript,  javascript being the most simple to use, in my opinion. Java, in comparison, is cumbersome. I have the least experience using C++. I found it to be unintuitive.
-
-Cyber Sucuaty
-
+M. Usman Khan’S question titled “Adding same marker again after remove() - Android” is, comparatively, unfocused. He provided no refrits to reference to his point of failure. Without a point to start from any responses will be unsatisfactory. The answers given only give advice on how to start, and provide no solutions.
