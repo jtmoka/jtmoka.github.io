@@ -5,8 +5,7 @@ title: To ask right
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-06
 labels:
-  - Javascript
-  - Khanacademy
+  - Q/A
 ---
 
 Asking good questions can make solving the problem much easier. Making imprecise or unfocused queries can lead to answers that are not focused. Inquiries should be clearly stated, so the question can be discussed without difficulty. A failed answer can add direction to responses.
