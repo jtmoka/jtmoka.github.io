@@ -15,7 +15,7 @@ summary: Computer art is a system of using computers for artistic endeavors.
   <img class="ui image" src="../images/The-fall-of-Time2-O copy.jpg">
 </div>
 
-I took a class on computer art my first semester. My second project was to make a poster, for a fake move. The process of this system is very similar to computer programming. I learned how to install and use software, in his class.
+I took a class on computer art my first semester. My second project was to make a poster, for a fake move. The process of this system is very similar to computer programming. I learned how to install and use software for this class.
  
 I wrote the the fake stories for each project. I then designed my art around the story I made. The second project, was meant to be a poster for a time travel, detective, mystery movie poster. 
  
