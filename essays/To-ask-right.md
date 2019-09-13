@@ -16,4 +16,5 @@ Ravindra Barthwal’s question titled “Room Database Migration Failed: ALTER T
 M. Usman Khan’s question titled “Adding same marker again after remove() - Android” is, comparatively, unfocused. He provides no reference to his point of failure. Without a point to start from any responses will be unsatisfactory. The answers given only give advice on how to start, and provide no solutions.
 
 https://stackoverflow.com/questions/50972190/room-database-migration-failed-alter-table-to-add-multiple-columns
+
 https://stackoverflow.com/questions/56618638/adding-same-marker-again-after-remove-android
