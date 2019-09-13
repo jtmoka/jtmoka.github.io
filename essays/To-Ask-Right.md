@@ -16,7 +16,9 @@ M. Usman Khan’S question titled “Adding same marker again after remove() - A
 
 
 Ravindra Barthwal: https://stackoverflow.com/users/4057271/ravindra-barthwal
+
 Room Database Migration Failed: ALTER TABLE to add multiple columns: https://stackoverflow.com/questions/50972190/room-database-migration-failed-alter-table-to-add-multiple-columns
 
 M. Usman Khan: https://stackoverflow.com/users/1397821/m-usman-khan
+
 Adding same marker again after remove() - Android: https://stackoverflow.com/questions/56618638/adding-same-marker-again-after-remove-android
