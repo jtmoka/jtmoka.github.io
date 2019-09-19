@@ -8,7 +8,7 @@ labels:
   - Q/A
 ---
 
-Asking good questions can make solving the problem much easier to go thugh. Making imprecise or unfocused queries can lead to answers that are not focused. Inquiries should be clearly stated, so the question can be discussed without difficulty. A failed answer can add direction to responses.
+Asking good questions can make solving the problem much easier to do. Making imprecise or unfocused queries can lead to answers that are not focused. Inquiries should be clearly stated, so the question can be discussed without difficulty. A failed answer can add direction to responses.
 
 Ravindra Barthwal’s question titled “Room Database Migration Failed: ALTER TABLE to add multiple columns”, is a well made query. He clearly states his problem, as well as the roadblock that he has run into. He also displays his code and error message, allowing his audience to understand first hand. 
 
