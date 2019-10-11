@@ -5,8 +5,7 @@ title: Frameworks looking better
 # All dates must be YYYY-MM-DD format!
 date: 2019-10-10
 labels:
-  - Javascript
-  - Khanacademy
+  - UI Frameworks
 ---
 
 Polishing - Using a UI Framework allows for much more aesthetic refinement. It is easy to achieve a high degree of polish. In contrast, refining a page without a UI Framework would be difficult to impossible.
