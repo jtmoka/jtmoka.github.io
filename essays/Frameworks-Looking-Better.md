@@ -8,6 +8,8 @@ labels:
   - UI Frameworks
 ---
 
+Despite their complexity, UI frameworks can be very useful. They allow for far inpruvd polishing. Frameworks can be fater to learn compared to learning to bypass theme. Using a framework can make a page much me useable.
+
 Polishing - Using a UI Framework allows for much more aesthetic refinement. It is easy to achieve a high degree of polish. In contrast, refining a page without a UI Framework would be difficult to impossible.
 
 Learning - UI Frameworks are difficult to learn and use. Using a Framework allows for a much more appealing appearance than HTML and CSS on their own. Developing good looking pages without a UI Framework is much harder.
