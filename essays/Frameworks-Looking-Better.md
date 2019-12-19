@@ -8,7 +8,7 @@ labels:
   - UI Frameworks
 ---
 
-Despite their complexity, UI frameworks can be very useful. They allow for far inproved polishing. Frameworks can be faster to learn compared to learning to bypass them. Using a framework can make a page much more usable.
+Despite their complexity, UI frameworks can be very useful. They allow for far improved polishing. Frameworks can be faster to learn compared to learning to bypass them. Using a framework can make a page much more usable.
 
 Polishing - Using a UI Framework allows for much more aesthetic refinement. It is easy to achieve a high degree of polish. In contrast, refining a page without a UI Framework would be difficult to impossible.
 
