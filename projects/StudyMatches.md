@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/The-fall-of-Time2-O copy.jpg
 title: StudyMatches
-permalink: projects/micromouse
+permalink: projects/studymatches
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-06
 labels:
