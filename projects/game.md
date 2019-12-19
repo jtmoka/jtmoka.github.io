@@ -9,7 +9,7 @@ date: 2019-09-06
 labels:
   - javascript
   - Game
-summary: The Little Homunculus is a game I program in javascript..
+summary: The Little Homunculus is a game I programed in javascript..
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/hom2.jpg">
