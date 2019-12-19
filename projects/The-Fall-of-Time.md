@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/The-fall-of-Time2-O copy.jpg
-title: The-fall-of-Time
+title: The-Fall-of-Time
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-06
