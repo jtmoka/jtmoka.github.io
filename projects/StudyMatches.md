@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/studyM.jpg
+image: images/studyM.png
 title: StudyMatches
 permalink: projects/studymatches
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ summary: Computer application that allows communication between students.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/The-fall-of-Time2-O copy.jpg">
+  <img class="ui image" src="../images/studyM.png">
 </div>
 
 Three colleagues and I made a computer application called "StudyMatches". Jui-Chen Tang, one of my teammates, came up with the name. Another member of my team, Rex Lactaoen, made the core of the application. My collaborator, Keanu Lagundimao, and I made the primary peripheral systems.
